@@ -42,6 +42,9 @@ Technical Showcase
 [!IMPORTANT]
 
 Confidentiality Note: Data displayed in screenshots is anonymized. The core logic is private property of the CNSSAP.
+<img width="1916" height="734" alt="Image" src="https://github.com/user-attachments/assets/34a56bbd-b006-4ec3-b80b-827cfc16ad7e" />
+<img width="1897" height="868" alt="Image" src="https://github.com/user-attachments/assets/888d2e6c-0d50-49c7-890d-73bd10f9cd8c" />
+<img width="1888" height="628" alt="Image" src="https://github.com/user-attachments/assets/566ff0b4-41be-49ea-a175-a05a4db31a4c" />
 📂 Repository Structure
 /src: The core audit engine and Polars logic.
 
